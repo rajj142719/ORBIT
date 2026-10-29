@@ -1,0 +1,2 @@
+dataset/cifar-100-python/*
+!dataset/cifar-100-python/.gitkeep
