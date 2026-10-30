@@ -24,7 +24,7 @@ This repository contains the official PyTorch implementation of our WACV 2027 (A
 
 > **ORBIT: Crowding-Aware Geometric Routing for Few-Shot Class-Incremental Learning**
 > *ORthonormal Basis Incremental Representation Tuning*
-> WACV 2027 Submission #107
+> WACV 2027 (Accepted)
 
 📄 **Paper:** Accepted in WACV 2027.
 
