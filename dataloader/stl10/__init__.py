@@ -1,1 +1,0 @@
-from .stl10 import STL10
