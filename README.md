@@ -507,7 +507,7 @@ If you find ORBIT useful in your research, please consider citing our work and â
 ```bibtex
 @inproceedings{orbit_2027,
   title     = {ORBIT: Crowding-Aware Geometric Routing for Few-Shot Class-Incremental Learning},
-  author    = {Anonymous},
+  author    = {H. Tiwari, R. Bhatt, and R. Nitas P.},
   booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
   year      = {2027}
 }
