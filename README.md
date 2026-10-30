@@ -521,5 +521,5 @@ This project builds upon prior open-source work in few-shot class-incremental le
 <div align="center">
 
 
-### 🪐 Let's start ORBITing...*
+### 🪐 Let's start ORBITing...
 </div>
