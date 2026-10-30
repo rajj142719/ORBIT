@@ -4,7 +4,7 @@
 ### Crowding-Aware Geometric Routing
 #### for Few-Shot Class-Incremental Learning
 
-![WACV 2027](https://img.shields.io/badge/WACV-2027%20(under%20review)-1f6feb?style=flat-square)
+![WACV 2027](https://img.shields.io/badge/WACV-2027%20(accepted)-1f6feb?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Task](https://img.shields.io/badge/Task-FSCIL-8A2BE2?style=flat-square)
 ![License](https://img.shields.io/badge/License-see%20LICENSE-lightgrey?style=flat-square)
@@ -26,7 +26,7 @@ This repository contains the official PyTorch implementation of our WACV 2027 (A
 > *ORthonormal Basis Incremental Representation Tuning*
 > WACV 2027 Submission #107
 
-📄 **Paper:** Under review — project page to be released on acceptance.
+📄 **Paper:** Accepted in WACV 2027.
 
 Few-shot class-incremental learning (FSCIL) freezes the backbone after base training and relies entirely on that representation for every future session. ORBIT measures how the base-class feature space is actually organized — before any gradient step is taken — and routes augmentation accordingly, rather than applying one fixed policy to every dataset.
 
@@ -524,6 +524,6 @@ This project builds upon prior open-source work in few-shot class-incremental le
 
 <div align="center">
 
-### 🪐 ORBIT — *Measure the geometry, then augment.*
+### 🪐 Let's start ORBITing...*
 
 </div>
