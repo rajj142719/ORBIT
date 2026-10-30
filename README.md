@@ -512,10 +512,6 @@ If you find ORBIT useful in your research, please consider citing our work and �
   year      = {2027}
 }
 ```
-
-> [!NOTE]
-> Author names and full citation details will be updated after the review process.
-
 ---
 
 ## 🙏 Acknowledgements
@@ -524,6 +520,6 @@ This project builds upon prior open-source work in few-shot class-incremental le
 
 <div align="center">
 
-### 🪐 Let's start ORBITing...*
+
 
 </div>
